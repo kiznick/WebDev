@@ -1,8 +1,4 @@
 <?php
-
-    //Don't forget to change file name to connect.php
-    //and edit the information below to your.
-
     ob_start();
     session_start();
     $dbhost = 'localhost';
