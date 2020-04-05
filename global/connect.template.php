@@ -5,7 +5,7 @@
 
     ob_start();
     session_start();
-    $dbhost = "<<HOST IP>>";
+    $dbhost = "localhost";
     $dbuser = "<<USERNAME>>";
     $dbpass = "<<PASSWORD>>";
     $dbdatabase = "<<DATABASE>>";
